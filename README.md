@@ -28,7 +28,7 @@ It has since been cleaned, restructured, and published here as a portfolio proje
 
 ## 🛠️ Built With
 
-- **Java** (JDK 17)
+- **Java** (JDK 21)
 - **Swing GUI** (via IntelliJ Designer)
 - **IntelliJ IDEA**
 - File handling with `BufferedReader` and `FileWriter`
