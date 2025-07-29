@@ -3,7 +3,7 @@
 
 A Java Swing-based desktop application designed to manage student academic records with login authentication. This project was developed using **Object-Oriented Programming (OOP)** concepts and a graphical interface designed via **IntelliJ Swing UI Designer**.
 
-Users can log in through credentials stored in a simple `Login.txt` file, register new students, view and update their grades, and export transcripts — all through a friendly GUI.
+Users can log in through credentials stored in a simple `Login.txt` file, register new students, view and update their grades, and export transcripts with all through a friendly GUI.
 
 ---
 
@@ -11,7 +11,7 @@ Users can log in through credentials stored in a simple `Login.txt` file, regist
 
 This application was originally created as part of an academic group project for the **Object-Oriented Programming (KP14203)** course at Universiti Malaysia Pahang (UMP).
 
-It has since been cleaned, restructured, and published here as a portfolio project by the contributor — with proper credit to the original group members.
+It has since been cleaned, restructured, and published here as a portfolio project by the contributor with proper credit to the original group members.
 
 ---
 
