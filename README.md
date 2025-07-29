@@ -1,4 +1,5 @@
 # 🎓 Grade Management System
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A Java Swing-based desktop application designed to manage student academic records with login authentication. This project was developed using **Object-Oriented Programming (OOP)** concepts and a graphical interface designed via **IntelliJ Swing UI Designer**.
 
@@ -35,7 +36,7 @@ It has since been cleaned, restructured, and published here as a portfolio proje
 ---
 
 ## 📁 Project Structure
-
+```
 GradeManagementSystem/
 ├── src/ # All Java source and .form GUI files
 │ ├── Main.java
@@ -46,8 +47,9 @@ GradeManagementSystem/
 ├── studentdetails/ # Saved student data files
 ├── studenttranscript/ # Generated student transcripts
 ├── .gitignore # Ignore IDE files, compiled code, etc.
+└── LICENSE # MIT License for open-source usage
 └── README.md # This file
-
+```
 ---
 
 ## ▶️ How to Run
