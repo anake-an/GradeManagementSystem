@@ -9,7 +9,7 @@ Users can log in through credentials stored in a simple `Login.txt` file, regist
 
 ## 💡 Project Overview
 
-This application was originally created as part of an academic group project for the **Object-Oriented Programming (KP14203)** course at Universiti Malaysia Pahang (UMP).
+This application was originally created as part of an academic group project for the **Object-Oriented Programming (KP14203)** course at Universiti Malaysia Sabah (UMS).
 
 It has since been cleaned, restructured, and published here as a portfolio project by the contributor with proper credit to the original group members.
 
