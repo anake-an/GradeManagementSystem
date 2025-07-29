@@ -70,7 +70,7 @@ This project was originally developed as a group assignment for the KP14203 Obje
 
 | Name                                   | Profile Link                                                    |
 |----------------------------------------|-----------------------------------------------------------------|
-| **Aniq Najmuddin Bin Sharifuddin**     | [Linkedin](www.linkedin.com/in/aniqnaj)                         |
+| **Aniq Najmuddin Bin Sharifuddin**     | [Linkedin](https://www.linkedin.com/in/aniqnaj)                 |
 | Muhammad Faris Bin Huzaimi             | [LinkedIn](www.linkedin.com/in/farishuz)                        |
 | Muhammad Isyraf Ahnaf Bin M. Zamri     | [LinkedIn](www.linkedin.com/in/muhammad-isyraf-ahnaf-320557256) |
 | Muhammad Saifullah Bin Rosman          |                                                                 |
