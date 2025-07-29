@@ -1,0 +1,20 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+*.class
+
+# GUI Designer cache (optional)
+*.form~
+
+### Mac OS / Windows Junk ###
+.DS_Store
+Thumbs.db
+
+### Ignore compiled or temp data files
+*.log
+*.tmp
+
+# OPTIONAL: ignore test results or temporary saved output
+# studentdetails/*.tmp
+# studenttranscript/*.tmp
