@@ -61,9 +61,10 @@ GradeManagementSystem/
 3. Make sure Java SDK 21+ is set
 4. Run Main.java to launch the app
 5. Login using credentials from Login.txt:
-     Username: Admin
-     Password: Admin123
-
+```
+   Username: Admin
+   Password: Admin123
+```
 ## 👥 Contributors
 
 This project was originally developed as a group assignment for the KP14203 Object-Oriented Programming course.
