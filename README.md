@@ -65,6 +65,9 @@ GradeManagementSystem/
    Username: Admin
    Password: Admin123
 ```
+
+---
+
 ## 👥 Contributors
 
 This project was originally developed as a group assignment for the KP14203 Object-Oriented Programming course.
